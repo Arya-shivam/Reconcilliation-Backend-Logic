@@ -1,0 +1,24 @@
+{
+  "name": "Backend Assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.30.1",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.3.3",
+    "@types/pg": "^8.18.0",
+    "express": "^5.2.1",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "pg": "^8.19.0"
+  }
+}
